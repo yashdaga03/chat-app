@@ -1,0 +1,29 @@
+version: '3.9'
+
+services:
+  #Mongo DB service
+  mongo_db:
+    container_name: db_container
+    image: mongo:latest
+    restart: always
+    ports:
+      - 27017:27017
+    volumes:
+      - mongo_db:/data/db
+
+  # Node
+  api:
+    build: .
+    ports:
+      - 3000:3000
+    environment:
+      PORT: 3000
+      MONGODB_URI: mongodb://mongo_db:27017/chat-application
+      JWT_SECRET: chat
+      ENCRYPTION_KEY: encrypt-message
+    depends_on:
+      - mongo_db
+
+volumes:
+  mongo_db: {}
+

@@ -1,0 +1,2 @@
+{"code":11000,"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: chat-application.users index: username_1 dup key: { username: \"yash\" }","index":0,"keyPattern":{"username":1},"keyValue":{"username":"yash"}},"index":0,"keyPattern":{"username":1},"keyValue":{"username":"yash"},"level":"error","timestamp":"2024-07-21T17:38:27.506Z"}
+{"level":"error","timestamp":"2024-07-22T06:07:22.639Z"}

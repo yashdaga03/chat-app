@@ -1,0 +1,23 @@
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: anusha.daga@gmail.com","timestamp":"2024-07-21T17:36:04.078Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: yash1@mailinator.com","timestamp":"2024-07-21T17:37:59.498Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: yash2@mailinator.com","timestamp":"2024-07-21T17:38:22.479Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: yash2@mailinator.com","timestamp":"2024-07-21T17:38:33.645Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: yash3@mailinator.com","timestamp":"2024-07-21T17:39:20.835Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: yash4@mailinator.com","timestamp":"2024-07-21T17:40:44.350Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: yash5@mailinator.com","timestamp":"2024-07-21T17:40:54.129Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: yash6@mailinator.com","timestamp":"2024-07-22T04:46:42.137Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: yash7@mailinator.com","timestamp":"2024-07-22T04:47:15.237Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: yash8@mailinator.com","timestamp":"2024-07-22T05:51:19.550Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: john.doe@example.com","timestamp":"2024-07-22T06:07:22.373Z"}
+{"level":"error","timestamp":"2024-07-22T06:07:22.639Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: john.doe@example.com","timestamp":"2024-07-22T06:10:27.198Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: john.doe@example.com","timestamp":"2024-07-22T06:14:35.804Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: john.doe@example.com","timestamp":"2024-07-22T06:15:45.821Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: john.doe@example.com","timestamp":"2024-07-22T06:16:12.255Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: john.doe@example.com","timestamp":"2024-07-22T06:18:04.552Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: john.doe@example.com","timestamp":"2024-07-22T06:19:08.869Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: yash1@mailinator.com","timestamp":"2024-07-22T06:20:39.054Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: yash2@mailinator.com","timestamp":"2024-07-22T06:20:44.680Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: yash3@mailinator.com","timestamp":"2024-07-22T06:20:49.772Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: yash4@mailinator.com","timestamp":"2024-07-22T06:20:54.548Z"}
+{"level":"info","message":"[EVENT][CONTROLLER] Register User called: yash5@mailinator.com","timestamp":"2024-07-22T06:20:59.334Z"}
