@@ -10,7 +10,7 @@ Features -
 - #### User and Common Features -
 - ---
 - Cluster module for vertical scaling.
-- User Registration with sending Email consisting of create, update and get user.
+- User Registration with sending Email consisting of create, update and get user (communication-service is present in proProjects repository).
 - Passwords are hashed and stored in database.
 - Production level addition of winston for logging in resources/logs (In prod, these logs will be stored in S3 or will be shared with some monitoring services).  
 - The application is containerized using docker. Both Dockerfile and docker-compose are available for now.
