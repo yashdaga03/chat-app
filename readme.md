@@ -1,9 +1,7 @@
 
 # Chat Application
 
-This is a microservices based project consisting of reusable utility services. One is the chat-BE which handles, user registration and operations related to user, chat operations (private as well as group chat) and media sharing, and other one is communication-services which notifies users via emails.
-
-Monolithic vs Microservice.
+Chat Application which supports Groups and Private Messages (built using websockets), the messages are end to end encrypted, supports user authentication & password hashing, file upload, cluster module for scaling and winston loggers. Currently logs and files are stored in resources folder but ideally it should be in AWS S3. This application is containerized using Docker.
 
 Features -
 - 
